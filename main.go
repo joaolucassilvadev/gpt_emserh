@@ -10,5 +10,5 @@ func main() {
 
 	router.Router(serv)
 
-	serv.Run()
+	serv.Run(":3031")
 }
