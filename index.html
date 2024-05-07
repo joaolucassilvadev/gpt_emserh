@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interface GPT-3</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Inclui um arquivo CSS para estilos (opcional) -->
+</head>
+<body>
+    <div class="container">
+        <h1>Assistente Ada1</h1>
+        <form id="perguntaForm">
+            <label for="pergunta">Pergunta:</label>
+            <input type="text" id="pergunta" name="pergunta" required>
+            <button type="submit">Enviar</button>
+        </form>
+        <div id="resposta" class="resposta">
+            <!-- Resposta do GPT-3 será exibida aqui -->
+        </div>
+    </div>
+
+    <script>
+        // Define a URL do endpoint para enviar perguntas
+        const apiUrl = 'http://localhost:3031/pergunta';
+
+        // Referência ao formulário
+        const form = document.getElementById('perguntaForm');
+
+        // Adiciona um evento de submissão ao formulário
+        form.addEventListener('submit', async (event) => {
+            event.preventDefault(); // Impede o envio padrão do formulário
+
+            // Obtém o valor da pergunta
+            const perguntaInput = document.getElementById('pergunta');
+            const pergunta = perguntaInput.value;
+
+            // Envia a pergunta à API
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ pergunta: pergunta })
+            });
+
+            // Verifica se a resposta da API está OK
+            if (response.ok) {
+                const data = await response.json();
+                // Exibe a resposta na página
+                document.getElementById('resposta').innerHTML = `<p>Resposta: ${data['resposta para o usuario']}</p>`;
+            } else {
+                document.getElementById('resposta').innerHTML = '<p>Ocorreu um erro ao processar sua pergunta. Por favor, tente novamente.</p>';
+            }
+
+            // Limpa o campo de pergunta após o envio
+            perguntaInput.value = '';
+        });
+    </script>
+</body>
+</html>
