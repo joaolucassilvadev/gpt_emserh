@@ -6,6 +6,6 @@ import (
 )
 
 func Router(eng *gin.Engine) {
-	eng.POST("pergunta", controller.InputPergunta)
-	eng.GET("html", controller.ServeIndex)
+	eng.POST("/pergunta", controller.InputPergunta)
+	eng.GET("/html", controller.ServeIndex)
 }
