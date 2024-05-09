@@ -93,3 +93,72 @@ Planilha de Informações de Folha de Pagamento
 1º passo: RH da unidade solicita folhas de ponto dos colaboradores.
 2º passo: RH confere informações como adicional noturno, faltas e atrasos.
 O prazo para envio das informações é até o dia 10 do mês corrente.
+
+OBJETIVO DO processo de planejamento e solicitação de férias
+Definir procedimentos e responsabilidades para o processo de planejamento e solicitação de férias para os colaboradores da Empresa Maranhense de Serviços Hospitalares – EMSERH.
+ABRANGÊNCIA
+Envolve os Analistas de Relações Trabalhistas, Coordenadores de Relações Trabalhistas, RH das Unidades e Setores da Sede da EMSERH.
+DOCUMENTOS DE REFERÊNCIA
+Sistema Alterdata
+Regulamento de Pessoal da EMSERH
+DEFINIÇÕES
+Alterdata: Softwares de Gestão Empresarial.
+RH: Recursos Humanos.
+EMSERH: Empresa Maranhense de Serviços Hospitalares.
+FOPAG: Folha de Pagamento.
+RT: Relações Trabalhistas.
+RECURSOS NECESSÁRIOS
+Sistema Alterdata, computador, impressora, papel A4, materiais administrativos, financeiros e pessoais.
+RESPONSABILIDADES
+6.1 Diretor de Recursos Humanos
+
+Disponibilizar os recursos necessários para o cumprimento deste procedimento.
+6.2 Gerente de Relações Trabalhistas
+
+Identificar a necessidade de revisão deste procedimento operacional.
+Reforçar a importância do atendimento aos requisitos deste procedimento aos colaboradores sob sua gestão.
+Comunicar à diretoria as necessidades de revisões deste procedimento.
+Estabelecer medidas administrativas aos colaboradores que não cumprirem o procedimento.
+6.3 Coordenador(a) de Ativos
+
+Treinar/divulgar o presente procedimento a todos os seus colaboradores.
+Assegurar que todos os colaboradores conheçam o procedimento e mantenham registro disso.
+Identificar a necessidade de revisão do procedimento.
+Comunicar à Gerência as necessidades de revisões.
+6.4 Analista de Relação Trabalhista e RH das Unidades
+
+Conhecer e executar os requisitos do procedimento.
+Comunicar e propor revisões sempre que identificados pontos passíveis de alteração.
+DESCRIÇÃO DO PROCEDIMENTO
+7.1 Programação de Férias
+
+1º Passo: O Analista de Relações Trabalhistas envia o relatório de previsão de férias gerado no sistema Alterdata para o RH da unidade/Setor da Sede. O relatório contém limites de gozo e períodos aquisitivos de cada colaborador.
+2º Passo: O RH da unidade/Setor da Sede organiza a programação de férias com coordenadores e encarregados de setor, observando limites de gozo e períodos aquisitivos completos. Férias podem ser usufruídas em até 3 períodos para diretores, gerentes, assessores e coordenadores; em até 2 períodos para demais colaboradores.
+3º Passo: O RH da unidade/Setor da Sede envia ao Analista de Relações Trabalhistas a programação do ano seguinte até 30/11 do corrente ano, por meio da planilha padrão de gestão de férias (Anexo I). Alterações na programação devem ser enviadas por e-mail com 60 dias de antecedência.
+4º Passo: O Analista de RT imprime a programação do mês para as férias, verifica solicitações de alteração, gera avisos de férias no sistema Alterdata, confirma períodos aquisitivos completos e envia avisos com até 30 dias de antecedência do gozo. Também envia recibos de férias com dois dias de antecedência do pagamento.
+5º Passo: O RH da unidade/Setor da Sede imprime os recibos de férias, coleta assinaturas de colaboradores e gestores, e devolve os documentos assinados para a Gerência de Relações Trabalhistas.
+MONITORAMENTO DE PROCESSO
+Indicador: % de Empregados da Diretoria Treinados no Procedimento PSG -0002 – Diretrizes Programa de 5S
+Meta: 100%
+Fórmula de Cálculo: Número de Empregados Treinados no Procedimento/Número de Empregados da Diretoria
+Tipo: Monitoramento
+Objetivo: Realizar capacitação dos empregados no Programa 5S
+Prazo para reavaliação do indicador: Anual
+ANEXOS
+Anexo I – Planilha Padrão de Gestão de Férias
+CONTROLE DE REGISTRO
+Identificação: Relacionar registros utilizados no procedimento.
+Local do Arquivo: Descreva local, armazenamento, proteção, recuperação, tempo de retenção, descarte.
+HISTÓRICO DE REVISÕES
+Nº da Versão: Informe a versão do procedimento que sofreu alteração.
+Data: Informe a data da versão do procedimento.
+Item: Informe o item que sofreu alteração.
+Descrição da Revisão: Informe a exclusão/inclusão/modificação que ocorreu.
+Responsável: Informe responsável pela revisão.
+ELABORADORES
+Participantes na Elaboração do Procedimento
+Janayna Matos (Gerência de Relações Trabalhistas)
+Robenilson Silva (Gerência de Relações Trabalhistas)
+Nayara Marreiros (Gerência de Relações Trabalhistas)
+Claudia Dias (Gerência de Gestão Integrada)
+Kelle Guignoni (Gerência de Gestão Integrada)
