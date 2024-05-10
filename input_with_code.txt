@@ -1,164 +1,305 @@
-EMSERH: Gestão Pública Eficiente
-
-A Empresa Maranhense de Serviços Hospitalares (EMSERH) foi criada em 2012, através da Lei Estadual Nº 9.732, com a missão de implantar um novo conceito em gestão de saúde com qualidade no Estado do Maranhão. Desde sua efetivação em 2015, sob o Governo Flávio Dino, a EMSERH se tornou uma empresa pública de direito privado com o objetivo de ser referência nacional na gestão em saúde.
+A EMSERH (Empresa Maranhense de Serviços Hospitalares) foi criada em 2012 para implantar um novo modelo de gestão de saúde no Maranhão. A empresa se tornou uma referência nacional na gestão de saúde pública desde sua efetivação em 2015.
 
 Principais Atividades:
-
-A EMSERH gerencia 70% das unidades de saúde na capital e no interior do Estado do Maranhão.
-Trabalha em consonância com a política do Ministério da Saúde e do Sistema Único de Saúde (SUS).
-Visa otimizar gastos públicos e aumentar a qualidade do atendimento à população em saúde pública.
-Já gerou uma economia de 15 a 20% por unidade de saúde administrada, traduzida em uma economia mensal de R$ 10 milhões.
+Gerencia 70% das unidades de saúde no Maranhão.
+Trabalha de acordo com a política do Ministério da Saúde e do SUS.
+Reduziu gastos em 15 a 20% por unidade, economizando R$ 10 milhões mensais.
 Missão, Visão e Valores:
-
-Missão: Prestar serviços de saúde e ensino no Estado do Maranhão com qualidade e eficiência.
-Visão: Ser reconhecida como uma empresa de qualidade na gestão e ensino em saúde até 2027.
+Missão: Oferecer serviços de saúde e ensino com qualidade.
+Visão: Ser uma referência em gestão de saúde até 2027.
 Valores: Ética, transparência, responsabilidade, foco em resultados, segurança, empatia e inovação.
 Diretoria Executiva:
-
-Marcello Duailibe, Presidente: Economista com experiência em administração pública e finanças.
-Wanderson Rafael Mendonça Batista, Diretor Executivo Financeiro: Especialista em gestão de TI, estatística e gestão financeira.
-Jorge Carlos Araújo de Araújo, Diretor Executivo de Saúde Ocupacional, Segurança do Trabalho e Ambiente: Psicólogo com experiência em recursos humanos.
-Paulo Eduardo Pacheco Cardoso Ronchi, Diretor Executivo de Planejamento, Governança e Inovação: Economista com experiência em gestão de projetos e orçamentos.
-Ricardo Martins Castro, Diretor Executivo Clínico: Médico com experiência em cirurgia geral.
-Letícia Helena do Vale Façanha, Diretora Executiva Administrativa: Advogada com experiência em compras e contratos.
-Jessyca Costa Xavier, Diretora Executiva de Engenharia e Manutenção: Engenheira civil com experiência em gerenciamento de obras.
+Presidida por Marcello Duailibe, economista com experiência em administração pública e finanças.
+Outros diretores especializados em finanças, saúde ocupacional, planejamento, clínica, administração, engenharia e manutenção.
 Conselho de Administração:
-O conselho é composto por representantes de diferentes secretarias estaduais, casa civil, e membros independentes.
+Representantes de secretarias estaduais, casa civil, e membros independentes.
+Conselho Fiscal:
+Supervisiona as finanças da EMSERH.
+Composto por profissionais indicados por secretarias estaduais.
+Comitês:
+Auditoria Estatutária: Realiza auditorias para garantir transparência e precisão nas operações financeiras.
+Elegibilidade: Garante processos justos de contratação.
+Controle de Risco: Identifica e gerencia riscos operacionais.
+A EMSERH demonstra uma gestão eficiente e transparente na saúde pública, comprometida em oferecer serviços de qualidade aos cidadãos do Maranhão.
 
-Conclusão:
-A EMSERH demonstra que é possível alcançar uma gestão pública eficiente e satisfatória na área de saúde ao trabalhar de maneira transparente, ética e orientada a resultados. Por meio da integração com a Rede de Saúde e constante acompanhamento, a EMSERH se compromete a oferecer serviços de qualidade aos cidadãos do Maranhão.
+Aqui está um resumo conciso sobre os procedimentos para o fechamento da folha de pagamento e planejamento e solicitação de férias na Empresa Maranhense de Serviços Hospitalares (EMSERH).
 
-Conselho Fiscal
-O Conselho Fiscal é composto por profissionais indicados por diferentes secretarias e responsáveis por supervisionar as finanças da EMSERH.
-
-Ana Letícia Bacelar Viana Bragança: Presidente do Conselho Fiscal, indicada pela Secretaria de Estado da Saúde.
-Suplente: Heitor Ferreira de Carvalho.
-Luana de Jesus Pereira: Membro titular do Conselho Fiscal, indicada pela Secretaria de Transparência e Controle.
-Suplente: Paulo Henrique Nascimento Soares.
-Sandro Cesar Feitosa Monteiro: Membro titular do Conselho Fiscal, indicado pela Secretaria de Estado da Saúde.
-Suplente: Ana Beatriz Barros Sousa.
-Eduardo Cassio Beckman Gomes: Membro do Conselho Fiscal, indicado pela Secretaria de Estado do Planejamento e Orçamento.
-Suplente: Gianna Beatriz Cantanhede Rocha de Lima.
-Comitê de Auditoria Estatutário
-Este comitê é responsável por realizar auditorias na EMSERH para garantir transparência e precisão nas operações financeiras.
-
-Alberto Allan Rodrigues Patrício: Membro indicado pela Diretoria Clínica, vinculado à Secretaria de Estado da Saúde.
-Noabe Coelho Cunha: Membro indicado pela Auditoria Interna, vinculado à Casa Civil.
-Silvana Carla Costa dos Santos: Membro indicada pela Diretoria Financeira, vinculada à Secretaria de Estado da Saúde.
-Comitê de Elegibilidade
-O Comitê de Elegibilidade é formado por membros da EMSERH e responsáveis por garantir critérios claros e justos nos processos de contratação e elegibilidade.
-
-Lídia Cunha Schramm: Membro da área jurídica da EMSERH.
-Silvana Carla Costa dos Santos: Membro também do Comitê de Auditoria Estatutário.
-Paulo Eduardo Pacheco Cardoso Ronchi: Diretor de Planejamento e Governança da EMSERH, indicado pelo Conselho de Administração.
-Comitê de Controle de Risco
-O Comitê de Controle de Risco atua para identificar e gerenciar possíveis riscos nas operações da EMSERH.
-
-Lídia Cunha Schramm: Membro da área jurídica da EMSERH.
-Alberto Allan Rodrigues Patrício: Membro do Comitê de Auditoria Estatutário.
-Marcelo de Sousa Santos: Membro indicado pelo Conselho de Administração.
-Processo de Fechamento de Folha de Pagamento
+Fechamento da Folha de Pagamento
 Objetivo
-Definir procedimentos e responsabilidades para o fechamento da folha de pagamento na EMSERH.
-
+Definir procedimentos e responsabilidades para o fechamento da folha de pagamento.
 Abrangência
-Involves Analistas de Relações Trabalhistas, Coordenadores de Relações Trabalhistas, RH das Unidades, e Setores da Sede da EMSERH.
-
+Analistas de Relações Trabalhistas, Coordenadores de Relações Trabalhistas, RH das Unidades e Setores da Sede da EMSERH.
 Documentos de Referência
 Sistema Alterdata.
 Regulamento de Pessoal da EMSERH.
-Definições
-Alterdata: Softwares de gestão empresarial.
-RH: Recursos Humanos.
-EMSERH: Empresa Maranhense de Serviços Hospitalares.
-FOPAG: Folha de pagamento.
-RT: Relações Trabalhistas.
 Recursos Necessários
-Sistema Alterdata, computador, impressora, papel A4 e materiais administrativos.
+Sistema Alterdata, computador, impressora, papel A4, e materiais administrativos.
 Responsabilidades
-6.1 Diretor de Recursos Humanos
-
-Prover recursos necessários para cumprir o procedimento.
-6.2 Gerente de Relações Trabalhistas
-
-Avaliar a necessidade de revisão deste procedimento.
-6.3 Coordenador(a) de Ativos
-
-Treinar/Divulgar este procedimento a todos os colaboradores.
-6.4 Analista de Relações Trabalhistas e RH das Unidades
-
-Cumprir os requisitos do procedimento.
+Diretor de RH: Prover recursos necessários para cumprir o procedimento.
+Gerente de Relações Trabalhistas: Avaliar a necessidade de revisão e reforçar a importância de atender aos requisitos.
+Coordenador(a) de Ativos: Treinar e divulgar o procedimento para os colaboradores.
+Analista de Relações Trabalhistas e RH das Unidades: Cumprir os requisitos do procedimento.
 Descrição do Procedimento
-Planilha de Informações de Folha de Pagamento
-1º passo: RH da unidade solicita folhas de ponto dos colaboradores.
+Planilha de Informações de Folha de Pagamento:
+1º passo: RH das unidades solicita folhas de ponto.
 2º passo: RH confere informações como adicional noturno, faltas e atrasos.
-O prazo para envio das informações é até o dia 10 do mês corrente.
+Prazo: Até o dia 10 do mês corrente.
+Planejamento e Solicitação de Férias
+Objetivo
+Definir procedimentos e responsabilidades para o planejamento e solicitação de férias.
+Abrangência
+Analistas de Relações Trabalhistas, Coordenadores de Relações Trabalhistas, RH das Unidades e Setores da Sede da EMSERH.
+Documentos de Referência
+Sistema Alterdata.
+Regulamento de Pessoal da EMSERH.
+Recursos Necessários
+Sistema Alterdata, computador, impressora, papel A4, e materiais administrativos.
+Responsabilidades
+Diretor de RH: Fornecer recursos necessários para cumprir o procedimento.
+Gerente de Relações Trabalhistas: Identificar a necessidade de revisão do procedimento e reforçar sua importância aos colaboradores.
+Coordenador(a) de Ativos: Treinar e divulgar o procedimento para os colaboradores.
+Analista de Relação Trabalhista e RH das Unidades: Conhecer e executar os requisitos do procedimento.
+Descrição do Procedimento
+Programação de Férias:
+1º passo: Analista de Relações Trabalhistas envia relatório de previsão de férias para RH das unidades/setor da sede.
+2º passo: RH organiza programação de férias com coordenadores e encarregados, observando limites de gozo e períodos aquisitivos.
+3º passo: RH envia ao Analista de Relações Trabalhistas a programação do ano seguinte até 30/11.
+4º passo: Analista de Relações Trabalhistas imprime a programação do mês para férias, gera avisos de férias no sistema Alterdata e envia avisos com até 30 dias de antecedência do gozo.
+5º passo: RH das unidades/setor da sede imprime recibos de férias, coleta assinaturas e devolve documentos assinados para a Gerência de Relações Trabalhistas.
+Monitoramento do Processo
+Indicador: % de empregados treinados no procedimento PSG-0002.
+Meta: 100%.
+Prazo para reavaliação: Anual.
+Anexos
+Anexo I: Planilha Padrão de Gestão de Férias.
+Histórico de Revisões
+Versões anteriores e detalhes sobre as revisões efetuadas estão registrados.
+Elaboradores
+Lista de participantes envolvidos na elaboração do procedimento: Janayna Matos, Robenilson Silva, Nayara Marreiros, Claudia Dias, Kelle Guignoni.
 
-OBJETIVO DO processo de planejamento e solicitação de férias
-Definir procedimentos e responsabilidades para o processo de planejamento e solicitação de férias para os colaboradores da Empresa Maranhense de Serviços Hospitalares – EMSERH.
-ABRANGÊNCIA
-Envolve os Analistas de Relações Trabalhistas, Coordenadores de Relações Trabalhistas, RH das Unidades e Setores da Sede da EMSERH.
-DOCUMENTOS DE REFERÊNCIA
+
+
+
+
+
+Aqui está um resumo do processo de demissão de pessoal da EMSERH para facilitar a leitura e compreensão:
+
+Processo de Demissão de Pessoal
+DOC Nº: SEDE/DGP/POP/0042
+Revisão: 00
+Data: 05/09/2023
+Diretoria: Diretoria Executiva de Gestão de Pessoas
+Área: Gerência de Relações Trabalhistas
+Aprovação: Robenilson Silva, Gerente.
+Necessidade de Treinamento: Sim, com carga horária de 1h.
+Público-Alvo: Analistas e Coordenadores de Relações Trabalhistas da EMSERH.
+Objetivo:
+Definir procedimentos e responsabilidades para as atividades no processo de demissão de colaborador na EMSERH.
+
+Documentos de Referência:
 Sistema Alterdata
 Regulamento de Pessoal da EMSERH
-DEFINIÇÕES
-Alterdata: Softwares de Gestão Empresarial.
+Recursos Necessários:
+Sistema Alterdata
+Computador
+Impressora
+Materiais administrativos
+Responsabilidades:
+Diretor Executivo de Gestão de Pessoas: Prover recursos para o procedimento.
+Gerente de Relações Trabalhistas: Identificar necessidade de revisão, reforçar importância do procedimento, comunicar necessidades de revisão, e estabelecer medidas para colaboradores que não cumprirem o procedimento.
+Coordenadores de Relações Trabalhistas: Treinar e divulgar o procedimento aos colaboradores, assegurar que todos conheçam o procedimento e comunicar à gerência as necessidades de revisões.
+Colaboradores: Conhecer e cumprir os requisitos do procedimento e comunicar pontos que precisem de alterações.
+Procedimentos:
+Solicitação de demissão:
+Unidades Hospitalares ou Sede Administrativa enviam ofício ou memorando com justificativas.
+Análise prévia pelo Analista de Relações Trabalhistas para verificar impedimentos.
+Se aprovada, encaminhamento da notificação de dispensa e agendamento de exame demissional.
+Cálculo da demissão no sistema de folha de pagamento Alterdata:
+Impressão dos documentos da rescisão e abertura do processo.
+Cálculo no sistema Alterdata.
+Principais Causas de Demissão:
+Por iniciativa do empregador ou empregado.
+Por término de contrato ou falecimento.
+Procedimentos para Multa Rescisória:
+Elaboração da multa através do sistema da Caixa Econômica Federal, GRRF.
+Procedimentos após Cálculo da Rescisão:
+Impressão do TRCT.
+Despacho de pagamento da rescisão e encaminhamento para Direção Executiva de Gestão de Pessoas.
+Histórico de Revisões:
+Versão 00: Emissão inicial.
+Responsáveis: Janayna Matos, Nayara Marreiros, Claudia Dias, Kelle Guignoni.
+Espero que este resumo ajude a compreender os principais pontos do processo de demissão de pessoal na EMSERH.
+
+
+Vou organizar o texto para facilitar a leitura e a compreensão pela API. Este texto é sobre o processo de planejamento e solicitação de férias para os colaboradores da Empresa Maranhense de Serviços Hospitalares (EMSERH).
+
+Processo de Planejamento e Solicitação de Férias
+DOC Nº: SEDE/DGP/POP/0046
+Revisão: 00
+Data: 05/09/2023
+Páginas: 1 de 5
+Diretoria Emitente: Diretoria Executiva de Gestão de Pessoas
+Área: Gerência de Relações Trabalhistas
+Aprovação: Robenilson Silva
+Matrícula: 7186
+Cargo: Gerente
+Necessidade de Treinamento: Sim
+Carga Horária: 1 hora
+Validade: 05/09/2024
+Público Alvo: Analistas de Relações Trabalhistas e Coordenadores de Relações Trabalhistas da EMSERH
+Objetivo
+Definir procedimentos e responsabilidades para o pagamento de férias aos colaboradores da EMSERH.
+Abrangência
+Analistas de Relações Trabalhistas e Coordenadores de Relações Trabalhistas da EMSERH.
+Documentos de Referência
+Sistema Alterdata: Software de gestão empresarial.
+Regulamento de Pessoal da EMSERH.
+Definições
+Alterdata: Software de Gestão Empresarial.
 RH: Recursos Humanos.
 EMSERH: Empresa Maranhense de Serviços Hospitalares.
 FOPAG: Folha de Pagamento.
 RT: Relações Trabalhistas.
-RECURSOS NECESSÁRIOS
-Sistema Alterdata, computador, impressora, papel A4, materiais administrativos, financeiros e pessoais.
-RESPONSABILIDADES
-6.1 Diretor de Recursos Humanos
-
-Disponibilizar os recursos necessários para o cumprimento deste procedimento.
+Recursos Necessários
+Sistema Alterdata, computador, impressora, papel A4, e materiais administrativos, financeiros e pessoais.
+Responsabilidades
+6.1 Diretor Executivo de Gestão de Pessoas
+Fornecer recursos necessários para cumprir o procedimento.
 6.2 Gerente de Relações Trabalhistas
-
-Identificar a necessidade de revisão deste procedimento operacional.
-Reforçar a importância do atendimento aos requisitos deste procedimento aos colaboradores sob sua gestão.
-Comunicar à diretoria as necessidades de revisões deste procedimento.
-Estabelecer medidas administrativas aos colaboradores que não cumprirem o procedimento.
+Identificar e propor revisões do procedimento.
+Reforçar a importância do procedimento junto aos colaboradores da área.
+Comunicar à diretoria sobre necessidades de revisão.
+Estabelecer medidas para colaboradores que não cumprirem o procedimento.
 6.3 Coordenador(a) de Ativos
-
-Treinar/divulgar o presente procedimento a todos os seus colaboradores.
-Assegurar que todos os colaboradores conheçam o procedimento e mantenham registro disso.
-Identificar a necessidade de revisão do procedimento.
-Comunicar à Gerência as necessidades de revisões.
-6.4 Analista de Relação Trabalhista e RH das Unidades
-
+Treinar e divulgar o procedimento aos colaboradores.
+Assegurar que os colaboradores conheçam o procedimento.
+Comunicar à gerência necessidades de revisão.
+6.4 Analista de Relações Trabalhistas e RH das Unidades
 Conhecer e executar os requisitos do procedimento.
-Comunicar e propor revisões sempre que identificados pontos passíveis de alteração.
-DESCRIÇÃO DO PROCEDIMENTO
-7.1 Programação de Férias
+Comunicar e propor revisões quando identificados pontos passíveis de alteração.
+Descrição do Procedimento
+7.1 Processamento das Férias
+1º Passo:
+O Analista de Relações Trabalhistas imprime a programação de férias do mês.
+Verifica se houve alterações na programação.
+Gera avisos de férias no sistema Alterdata e verifica se os colaboradores têm período aquisitivo completo.
+Envia avisos às Unidades com até 30 dias de antecedência do gozo.
+2º Passo:
+O Analista de Relações Trabalhistas calcula as férias no sistema Alterdata.
+Realiza o cálculo de férias no sistema e verifica os valores calculados.
+Confere as médias (adicional noturno, gratificações, horas extras, entre outros).
+Verifica bases e descontos de INSS e IRRF, de acordo com a tabela vigente.
+Verifica os dias de férias para colaboradores com direito a menos de 30 dias devido a faltas no período aquisitivo.
+Nota: Caso o colaborador não tenha período aquisitivo completo, o reagendamento das férias deve ser feito para um mês posterior.
+3º Passo:
+O Analista de Relações Trabalhistas verifica a previsão de férias no sistema para confirmar se não há períodos a dobrar.
+Imprime relatórios e entrega ao Coordenador(a) de Ativos para abertura do processo junto ao setor de protocolo.
+Relatórios: Líquido de Férias e Remessas Bancárias.
+4º Passo:
+O setor de Protocolo devolve o processo para o Coordenador(a) de Ativos.
+Coordenador(a) de Ativos elabora despacho de solicitação de pagamento das férias.
+Lança na planilha de previsão de valores (Anexo I).
+Encaminha o processo para ser assinado pela Direção Executiva de Gestão de Pessoas.
+Anexos
+Anexo I: Planilha de previsão de valores de férias.
+Histórico de Revisões
+Nº da Versão: 00
+Data: 05/09/2023
+Item: Emissão Inicial
+Responsáveis: Janayna Matos e Nayara Marreiros
+Elaboradores
+Janayna Matos:
+Área: Gerência de Relações Trabalhistas
+E-mail: janayna.matos@emserh.ma.gov.br
+Nayara Marreiros:
+Área: Gerência de Relações Trabalhistas
+E-mail: nayara.marreiros@emserh.ma.gov.br
+Claudia Dias:
+Área: Gerência de Gestão Integrada
+E-mail: claudia.ribeiro@emserh.ma.gov.br
+Kelle Guignoni:
+Área: Gerência de Gestão Integrada
+E-mail: kelle.guignoni@emserh.ma.gov.br
 
-1º Passo: O Analista de Relações Trabalhistas envia o relatório de previsão de férias gerado no sistema Alterdata para o RH da unidade/Setor da Sede. O relatório contém limites de gozo e períodos aquisitivos de cada colaborador.
-2º Passo: O RH da unidade/Setor da Sede organiza a programação de férias com coordenadores e encarregados de setor, observando limites de gozo e períodos aquisitivos completos. Férias podem ser usufruídas em até 3 períodos para diretores, gerentes, assessores e coordenadores; em até 2 períodos para demais colaboradores.
-3º Passo: O RH da unidade/Setor da Sede envia ao Analista de Relações Trabalhistas a programação do ano seguinte até 30/11 do corrente ano, por meio da planilha padrão de gestão de férias (Anexo I). Alterações na programação devem ser enviadas por e-mail com 60 dias de antecedência.
-4º Passo: O Analista de RT imprime a programação do mês para as férias, verifica solicitações de alteração, gera avisos de férias no sistema Alterdata, confirma períodos aquisitivos completos e envia avisos com até 30 dias de antecedência do gozo. Também envia recibos de férias com dois dias de antecedência do pagamento.
-5º Passo: O RH da unidade/Setor da Sede imprime os recibos de férias, coleta assinaturas de colaboradores e gestores, e devolve os documentos assinados para a Gerência de Relações Trabalhistas.
-MONITORAMENTO DE PROCESSO
-Indicador: % de Empregados da Diretoria Treinados no Procedimento PSG -0002 – Diretrizes Programa de 5S
-Meta: 100%
-Fórmula de Cálculo: Número de Empregados Treinados no Procedimento/Número de Empregados da Diretoria
-Tipo: Monitoramento
-Objetivo: Realizar capacitação dos empregados no Programa 5S
-Prazo para reavaliação do indicador: Anual
-ANEXOS
-Anexo I – Planilha Padrão de Gestão de Férias
-CONTROLE DE REGISTRO
-Identificação: Relacionar registros utilizados no procedimento.
-Local do Arquivo: Descreva local, armazenamento, proteção, recuperação, tempo de retenção, descarte.
-HISTÓRICO DE REVISÕES
-Nº da Versão: Informe a versão do procedimento que sofreu alteração.
-Data: Informe a data da versão do procedimento.
-Item: Informe o item que sofreu alteração.
-Descrição da Revisão: Informe a exclusão/inclusão/modificação que ocorreu.
-Responsável: Informe responsável pela revisão.
-ELABORADORES
-Participantes na Elaboração do Procedimento
-Janayna Matos (Gerência de Relações Trabalhistas)
-Robenilson Silva (Gerência de Relações Trabalhistas)
-Nayara Marreiros (Gerência de Relações Trabalhistas)
-Claudia Dias (Gerência de Gestão Integrada)
-Kelle Guignoni (Gerência de Gestão Integrada)
+
+
+Aqui está um resumo conciso do processo de pagamento de encargos sociais (FGTS/INSS/IRRF) na Empresa Maranhense de Serviços Hospitalares (EMSERH).
+
+Objetivo: Estabelecer procedimentos para o pagamento de encargos sociais (FGTS, INSS, IRRF) na EMSERH.
+
+Abrangência: Analistas de Relações Trabalhistas e Coordenadores de Relações Trabalhistas na EMSERH.
+
+Responsabilidades:
+
+Diretor Executivo de Gestão de Pessoas: Fornece os recursos necessários para o cumprimento do procedimento.
+Gerente de Relações Trabalhistas: Propõe revisões operacionais, reforça a importância de atender aos requisitos do procedimento, comunica à diretoria as necessidades de revisão e estabelece medidas para quem não cumprir o procedimento.
+Coordenador(a) de Ativos: Treina e divulga o procedimento para os colaboradores, assegura que todos conheçam o procedimento, reforça a importância de seu atendimento e comunica à Gerência as necessidades de revisão.
+Analista de Relações Trabalhistas: Conhece e executa os requisitos do procedimento, comunicando e propondo revisões sempre que necessário.
+Processos de Pagamento:
+
+FGTS:
+Receber resumos consolidados por unidade e preencher planilha com valores detalhados.
+Gerar resumo consolidado e conciliar valores.
+Gerar arquivo no Alterdata para importar para SEFIP.
+Ajustar e verificar base de FGTS na SEFIP.
+Simular FGTS na SEFIP e proceder com fechamento e envio, imprimindo as guias de pagamento e relatórios.
+Solicitar abertura de processo junto ao protocolo com os documentos necessários.
+IRRF:
+Receber resumos consolidados e preencher planilha com valores detalhados.
+Gerar resumo consolidado e conciliar valores.
+Acessar e-CAC para emitir DARF do IRRF.
+Montar o processo unificado de IRRF e INSS.
+INSS:
+Receber resumos consolidados e preencher planilha com valores detalhados.
+Conciliação de valores com o resumo consolidado.
+Gerar DARF do INSS seguindo os procedimentos do IRRF.
+Montar o processo com as planilhas de INSS e IRRF.
+Conclusão:
+
+Após análise, os valores são lançados na planilha de controle, enviados para a Direção Executiva de Gestão de Pessoas para autorização, e o processo é encaminhado para o Gabinete.
+Anexos:
+
+Planilhas de FGTS, IRRF e INSS.
+Histórico de Revisões:
+
+Versão inicial em 05/09/2023 por Janayna Matos e Nayara Marreiros.
+Elaboradores:
+
+Janayna Matos, Nayara Marreiros, Claudia Dias, Kelle Guignoni.
+
+
+Aqui está o resumo do processo de pagamento de benefícios na Empresa Maranhense de Serviços Hospitalares (EMSERH), conforme o documento nº SEDE/DGP/POP/0044.
+
+Objetivo: Definir procedimentos e responsabilidades para o pagamento de benefícios.
+
+Abrangência: Toda a EMSERH.
+
+Documentos de Referência: Sistema Alterdata e Regulamento de Pessoal da EMSERH.
+
+Responsabilidades:
+
+Diretor Executivo de Gestão de Pessoas: Fornecer recursos necessários.
+Gerente de Relações Trabalhistas: Rever e comunicar mudanças necessárias.
+Coordenador(a) de Ativos: Treinar colaboradores e garantir cumprimento dos procedimentos.
+Analistas de Relações Trabalhistas e RH: Conhecer e propor revisões.
+Riscos Inerentes ao Processo:
+
+Notificar unidade para correção em caso de vale transporte para colaboradores de férias.
+Notificar unidade para envio de planilhas no prazo correto.
+Aguardar normalização do site do SET.
+Solicitar documentos corretos para adesão ao FUNBEN.
+Procedimento
+
+Processo de Compra de Vale Transporte: A unidade hospitalar solicita as escalas de trabalho e preenche a planilha de vale transporte. O analista de RT emite boletos pelo site do SBE e realiza a transferência do vale transporte.
+Processo de Adesão e Pagamento FUNBEN:
+RH recebe documentos de adesão ao FUNBEN, confere, e envia ao e-mail funben@emserh.ma.gov.br.
+Assistente Administrativo imprime e verifica os documentos, solicitando abertura do processo no setor de protocolo.
+Insere dados dos colaboradores na planilha padrão de envio ao FUNBEN, e envia a planilha toda segunda-feira.
+Inclusões específicas são analisadas pela SEGEP.
+Assistente Administrativo arquiva o processo após envio e inclui os descontos na folha de pagamento com o sistema Alterdata.
+Após adesões, analistas verificam os descontos ao fechar a folha de pagamento.
+Histórico de Revisões
+
+Versão inicial emitida em 05/09/2023, por Janayna Matos e Nayara Marreiros.
+
+
