@@ -1,61 +1,145 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interface GPT-3</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Inclui um arquivo CSS para estilos (opcional) -->
+    <title>Faça uma Pergunta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            max-width: 500px;
+            width: 100%;
+        }
+        h1 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #333;
+            text-align: center;
+        }
+        input[type="text"], button {
+            padding: 12px;
+            margin: 10px 0;
+            font-size: 16px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        input[type="text"] {
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .error, .response, .loading {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .error {
+            color: #a94442;
+            background-color: #f2dede;
+            border: 1px solid #ebccd1;
+        }
+        .response {
+            color: #3c763d;
+            background-color: #dff0d8;
+            border: 1px solid #d6e9c6;
+        }
+        .loading {
+            color: #31708f;
+            background-color: #d9edf7;
+            border: 1px solid #bce8f1;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Assistente Ada1</h1>
-        <form id="perguntaForm">
-            <label for="pergunta">Pergunta:</label>
-            <input type="text" id="pergunta" name="pergunta" required>
-            <button type="submit">Enviar</button>
-        </form>
-        <div id="resposta" class="resposta">
-            <!-- Resposta do GPT-3 será exibida aqui -->
-        </div>
+        <h1>Faça uma Pergunta</h1>
+        <div id="response" class="response" style="display: none;"></div>
+        <div id="loading" class="loading" style="display: none;">Aguarde...</div>
+        <div id="error" class="error" style="display: none;"></div>
+        <input type="text" id="pergunta" placeholder="Digite sua pergunta">
+        <button onclick="enviarPergunta()">Enviar</button>
     </div>
 
     <script>
-        // Define a URL do endpoint para enviar perguntas
-        const apiUrl = './pergunta';
+        function enviarPergunta() {
+            const pergunta = document.getElementById('pergunta').value.trim();
+            const errorDiv = document.getElementById('error');
+            const responseDiv = document.getElementById('response');
+            const loadingDiv = document.getElementById('loading');
+            errorDiv.style.display = 'none';
+            responseDiv.style.display = 'none';
+            loadingDiv.style.display = 'none';
+            errorDiv.textContent = '';
+            responseDiv.textContent = '';
 
-        // Referência ao formulário
-        const form = document.getElementById('perguntaForm');
+            if (pergunta === '') {
+                errorDiv.textContent = 'Por favor, digite uma pergunta válida.';
+                errorDiv.style.display = 'block';
+                return;
+            }
 
-        // Adiciona um evento de submissão ao formulário
-        form.addEventListener('submit', async (event) => {
-            event.preventDefault(); // Impede o envio padrão do formulário
+            loadingDiv.style.display = 'block';
 
-            // Obtém o valor da pergunta
-            const perguntaInput = document.getElementById('pergunta');
-            const pergunta = perguntaInput.value;
-
-            // Envia a pergunta à API
-            const response = await fetch(apiUrl, {
+            fetch('/pergunta', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({ pergunta: pergunta })
+            })
+            .then(response => response.json())
+            .then(data => {
+                loadingDiv.style.display = 'none';
+                if (data['mensagem_error']) {
+                    errorDiv.textContent = data['mensagem_error'];
+                    errorDiv.style.display = 'block';
+                } else {
+                    responseDiv.style.display = 'block';
+                    typeResponse(data['resposta para o usuario'], responseDiv);
+                }
+            })
+            .catch(error => {
+                loadingDiv.style.display = 'none';
+                errorDiv.textContent = 'Ocorreu um erro ao enviar a pergunta. Por favor, tente novamente.';
+                errorDiv.style.display = 'block';
             });
+        }
 
-            // Verifica se a resposta da API está OK
-            if (response.ok) {
-                const data = await response.json();
-                // Exibe a resposta na página
-                document.getElementById('resposta').innerHTML = `<p>Resposta: ${data['resposta para o usuario']}</p>`;
-            } else {
-                document.getElementById('resposta').innerHTML = '<p>Ocorreu um erro ao processar sua pergunta. Por favor, tente novamente.</p>';
+        function typeResponse(text, element) {
+            element.textContent = '';
+            let i = 0;
+            function type() {
+                if (i < text.length) {
+                    element.textContent += text.charAt(i);
+                    i++;
+                    setTimeout(type, 50);
+                }
             }
-
-            // Limpa o campo de pergunta após o envio
-            perguntaInput.value = '';
-        });
+            type();
+        }
     </script>
 </body>
 </html>

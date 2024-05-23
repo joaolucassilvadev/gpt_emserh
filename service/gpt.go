@@ -47,7 +47,7 @@ func Gpt(b string) string {
 			{Role: openai.ChatMessageRoleSystem, Content: contexto},
 			{Role: openai.ChatMessageRoleUser, Content: b},
 		},
-		MaxTokens:   500,
+		MaxTokens:   50,
 		Temperature: 0.5,
 	}
 
